@@ -1,24 +1,87 @@
-# 💫 A propos de moi:
-🔭 Je travaille actuellement sur : Un projet de gestion de transfert d'argent appelé MiniBank, où je développe une plateforme web pour gérer les transactions, les comptes utilisateurs, et la génération de QR codes, avec un accent sur la sécurité des dépôts et retraits.<br><br>👯 Je cherche à collaborer sur : Des projets liés à l'IoT, au développement web (en particulier avec Laravel, JavaScript), ou dans le domaine de l’électronique industrielle.<br><br>🤝 Je cherche de l’aide pour : Trouver des idées et des conseils pour améliorer la gestion de projets complexes, optimiser le développement IoT, ainsi que des astuces pour mieux me concentrer et rester productif.<br><br>🌱 J'apprends actuellement : Les systèmes IoT en profondeur, le développement full-stack avec Laravel et WebSocket, et l'utilisation des modèles UML pour structurer mes projets de manière plus efficace.<br><br>💬 Demande-moi à propos de : Le développement web, l'électronique industrielle, les mangas/animes, la création de contenu, ou des méthodes pour améliorer la productivité et le développement personnel.<br><br>⚡ Fun fact : Je rêve d’aller au Japon et je suis un grand fan de dessin de mangas, en plus d’être passionné de technologie et de bricolage électronique depuis mon enfance !
+# Khadime Mbacké Thiam
+**Technicien en Électronique Industrielle · Développeur IoT · Développeur Web Full-Stack**
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/bamba98) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61555722447006&mibextid=ZbWKwL) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bamba__art) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/khadime-mbacke-thiam-5963751ba) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/bambatech) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@bamba_uzumaki) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/bamba__uzumaki) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Bamba_Uzumaki) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@khadimembackethiam546) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=khadimethiam&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=khadimethiam&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=khadimethiam&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=khadimethiam&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+> Je construis des systèmes qui connectent le monde physique au monde numérique —  
+> de l'embarqué jusqu'aux applications web modernes et scalables.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=khadimethiam&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👤 Qui je suis
+
+Développeur hybride basé au Sénégal, à l'intersection de l'électronique industrielle, du développement IoT et du développement web. Je conçois des systèmes connectés, des applications web robustes et des solutions adaptées aux contraintes du terrain.
+
+Ce qui me différencie : je peux autant lire un schéma électronique que structurer une architecture backend, intégrer un capteur que déployer une API REST ou construire une interface React.
+
+---
+
+## 🔧 Stack technique
+
+**Frontend**
+- React · Next.js · Angular
+- JavaScript (ES6+) · TypeScript
+- HTML5 · CSS3 · Bootstrap · Tailwind CSS
+- Figma (UI/UX)
+
+**Backend**
+- PHP · Laravel
+- Node.js
+- API RESTful · WebSocket (temps réel)
+
+**Bases de données**
+- MySQL · MongoDB
+- Modélisation relationnelle & NoSQL
+
+**Embarqué & IoT**
+- C / C++ pour microcontrôleurs
+- Intégration de capteurs
+- Architecture IoT : device → backend → interface
+
+**Outils & DevOps**
+- Git · GitHub
+- Apache
+- Modélisation UML
+- Adobe Photoshop · Canva
+
+---
+
+## 🧠 Ce qui m'intéresse techniquement
+
+- Architecture logicielle propre et maintenable
+- Systèmes IoT full-stack (du hardware à l'interface)
+- Applications temps réel avec WebSocket
+- Sécurité des applications web
+- Structuration de projets complexes via UML
+- Intégration embarqué + web
+
+---
+
+## 🚀 Ce que vous trouverez ici
+
+Ce GitHub est mon espace de travail public. On y trouve :
+
+- Des projets personnels et collaboratifs
+- Des composants et boilerplates réutilisables
+- Des exemples d'architectures IoT
+- Des templates et patterns de projets structurés
+
+Pour une présentation complète de mes réalisations : **[Mon portfolio](https://portfolio.bamba.codes)** *(lien à mettre à jour)*
+
+---
+
+## 🤝 Disponible pour
+
+- Missions freelance — web, IoT, systèmes embarqués
+- Collaborations sur des projets open-source
+- Opportunités professionnelles en développement full-stack, IoT ou tech industrielle
+
+---
+
+## 📬 Me contacter
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/khadime-mbacke-thiam-5963751ba)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/khadimethiam)
+[![Email](https://img.shields.io/badge/Email-Me%20contacter-red?style=flat&logo=gmail&logoColor=white)](mailto:contact@bamba.codes)
+
+---
+
+*Je construis à l'intersection du matériel et du logiciel.*
