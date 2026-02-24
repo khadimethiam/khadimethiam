@@ -17,30 +17,25 @@ Ce qui me différencie : je peux autant lire un schéma électronique que struct
 ## 🔧 Stack technique
 
 **Frontend**
-- React · Next.js · Angular
-- JavaScript (ES6+) · TypeScript
-- HTML5 · CSS3 · Bootstrap · Tailwind CSS
-- Figma (UI/UX)
+- Angular · React · TypeScript · JavaScript (ES6+)
+- Tailwind CSS · Bootstrap · HTML5 · CSS3
 
 **Backend**
-- PHP · Laravel
-- Node.js
-- API RESTful · WebSocket (temps réel)
+- Node.js · Express · Laravel (PHP)
+- REST API · WebSocket (temps réel)
 
 **Bases de données**
-- MySQL · MongoDB
-- Modélisation relationnelle & NoSQL
+- MongoDB · MySQL · Firebase
 
-**Embarqué & IoT**
-- C / C++ pour microcontrôleurs
-- Intégration de capteurs
+**Internet des Objets (IoT)**
+- Arduino · Raspberry Pi
+- MQTT · Protocoles de communication embarqués
 - Architecture IoT : device → backend → interface
 
 **Outils & DevOps**
-- Git · GitHub
-- Apache
+- Git · GitHub · Docker
+- Figma (UI/UX)
 - Modélisation UML
-- Adobe Photoshop · Canva
 
 ---
 
