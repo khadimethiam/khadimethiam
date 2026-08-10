@@ -59,7 +59,7 @@ Ce GitHub est mon espace de travail public. On y trouve :
 - Des exemples d'architectures IoT
 - Des templates et patterns de projets structurés
 
-Pour une présentation complète de mes réalisations : **[Mon portfolio](https://portfolio.bamba.codes)** *(lien à mettre à jour)*
+Pour une présentation complète de mes réalisations : **[Mon portfolio](https://bamba.codes)**
 
 ---
 
